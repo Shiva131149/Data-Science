@@ -1,5 +1,5 @@
 # Data-Science
-In this repository there are **18 Assignments** which are named with the topics.
+In this repository there are ***18 Assignments*** which are named with the topics as you can see.
 
 Every folder consists of two sub folders namely data file and scrpit file(except first four).
 
